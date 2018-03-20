@@ -1,0 +1,11 @@
+{
+  "name": "pure-evil",
+  "version": "1.0.0",
+  "description": "Presented with malicious intent",
+  "main": "bot.js",
+  "author": "Starframe3D",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.1"
+  }
+}
